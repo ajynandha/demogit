@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color: black;
+    background-color: orange;
+    font-style: italic;
+}
+ form,label,input{
+    color: blue;
+    border-color: black;
+}
+  a{
+    color: blue;
+    background-color: aqua;
+    text-decoration: none;
+    
+    
+  }                  
+body{
+    background-color: antiquewhite
+
+}

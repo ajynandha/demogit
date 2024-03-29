@@ -1,0 +1,104 @@
+.first{
+             color: black;
+font-weight: bold;
+font-size: 1rem;
+font-style: italic;
+background-color: aqua;
+border: 1px solid aqua;
+border-radius: 10px;
+margin-top: 15px;
+background: transparent aqua;
+margin-right: 70%;
+    margin-left: 2%;
+
+}
+input{
+    background-color: aqua;
+    border: 2px solid aqua;
+    border-radius: 10px;
+    
+}
+.mail{
+    color: black;
+    font-weight: bold;
+    font-size: 1rem;
+    font-style: italic;
+    background-color: aqua;
+    border: 1px solid aqua;
+    border-radius: 10px;
+    background: transparent aqua;
+    margin-right: 70%;
+    margin-left: 2%;
+
+}
+.number{
+    color: black;
+    font-weight: bold;
+    font-size: 1rem;
+    font-style: italic;
+    background-color: aqua;
+    border: 1px solid aqua;
+    border-radius: 10px;
+    background: transparent aqua;
+    margin-right: 70%;
+    margin-left: 2%;
+}
+.word{
+    color: black;
+    font-weight: bold;
+    font-size: 1rem;
+    font-style: italic;
+    background-color: aqua;
+    border: 1px solid aqua;
+    border-radius: 10px; 
+    background: transparent aqua;
+    margin-right: 70%;
+margin-left: 2%;
+
+}
+.password{
+    color: black;
+    font-weight: bold;
+    font-size: 1rem;
+    font-style: italic;
+    background-color: aqua;
+    border: 1px solid aqua;
+    border-radius: 10px;
+    background: transparent aqua;
+margin-right: 70%;
+margin-left: 2%;}
+a{
+text-decoration: none;
+color: blue;
+border: 10px solid aqua;
+background-color: aqua;
+border-radius: 10px;
+border-collapse: collapse;
+justify-content: center;
+display: flex;
+margin-inline: 600px;
+text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+h1{
+    text-align: center;
+    color: orange;
+    font-style: italic;
+    font-weight: bold;
+    
+    
+
+}
+    
+
